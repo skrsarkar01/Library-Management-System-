@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run Library System",
+      "request": "launch",
+      "mainClass": "libmanagementsystem.src.main",
+      "preLaunchTask": "Compile Library System"
+    }
+  ]
+}

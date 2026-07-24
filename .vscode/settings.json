@@ -1,0 +1,9 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.fileDirectoryAsCwd": false,
+  "code-runner.executorMap": {
+    "java": "cd $workspaceRoot ; javac libmanagementsystem/src/main.java libmanagementsystem/src/model/Book.java libmanagementsystem/src/model/Member.java libmanagementsystem/src/model/Transaction.java libmanagementsystem/src/services/LibraryService.java libmanagementsystem/src/services/FileStorageService.java ; if ($?) { java libmanagementsystem.src.main }"
+  },
+  "java.project.sourcePaths": [],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
